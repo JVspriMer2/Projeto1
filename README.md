@@ -10,5 +10,5 @@ Instale o Visual Studio Code
 
 <p> Acesso ao Github</p><br>
 [github](https://github.com)
-
-<h3> Autor: João Victor Gonzales</h3>
++
++<h3> Autor: João Victor Gonzales</h3>
